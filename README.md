@@ -1,2 +1,6 @@
-# MATH50011_code_demo
-This is the repository for any code demonstrations for the course MATH50011 Statistical Modelling 1, offered at Imperial College London
+# MathsWiki Coding Demo
+This is the repository for any code demonstrations for all courses offered by the Department of Mathematics at Imperial College London.
+
+# Available Courses
+- Statistical Modelling I
+- Applied Statistical Inference (Statistical Modelling II)
